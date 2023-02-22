@@ -21,6 +21,7 @@
     color: white;
     text-align: center;
     margin-top: 1rem;
+    font-size: 1.5rem;
 }
 
 #timer, #timer-header {
@@ -48,10 +49,10 @@
     align-items:center;
     margin-left: auto;
     margin-right: auto;
-    padding: 0 8px;
+    padding: 0px 8px;
     width: 100%;
     background-color: #213551;
-    line-height: 1.2rem
+    line-height: 1.5rem
     
 }
 
@@ -59,8 +60,10 @@
     background-color: #213551;
     color: whitesmoke;
     border-radius: 5px;
-    box-shadow: 0px 0px 2px black;
-    height:2rem;
+    box-shadow: 0px 0px 1px whitesmoke;
+    height:3rem;
+    width: 3rem;
+    font-size: 1.2rem;
     margin:10px 3px;
     font-family:  'CursedTimer ULiL';
 }
