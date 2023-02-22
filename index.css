@@ -62,6 +62,7 @@
     box-shadow: 0px 0px 2px black;
     height:2rem;
     margin:10px 3px;
+    font-family:  'CursedTimer ULiL';
 }
 
 #clicked:hover {
